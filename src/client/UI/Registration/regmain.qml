@@ -133,7 +133,7 @@ PageStackWindow {
         ListElement{name: "Andorra"; cc:"376"; mcc:"213"}
         ListElement{name: "Angola"; cc:"244"; mcc:"631"}
         ListElement{name: "Anguilla"; cc:"1"; mcc:"365"}
-        ListElement{name: "Antarctica (Australian bases)"; cc:"6721"; mcc:"232"} //FIXME no info in wikipedia
+        ListElement{name: "Antarctica (Australian bases)"; cc:"6721"; mcc:"901"}
         ListElement{name: "Antigua and Barbuda"; cc:"1"; mcc:"344"}
         ListElement{name: "Argentina"; cc:"54"; mcc:"722"}
         ListElement{name: "Armenia"; cc:"374"; mcc:"283"}
@@ -282,7 +282,7 @@ PageStackWindow {
         ListElement{name: "Niue"; cc:"683"; mcc:"555"}
         ListElement{name: "Norfolk Island"; cc:"6723"; mcc:"505"}
         ListElement{name: "North Korea"; cc:"850"; mcc:"467"}
-        ListElement{name: "Northern Ireland 44"; cc:"28"; mcc:"272"} // FIXME may be wrong
+        ListElement{name: "Northern Ireland"; cc:"44"; mcc:"272"} // Fixed CC, don't know about MCC
         ListElement{name: "Northern Mariana Islands"; cc:"1"; mcc:"534"}
         ListElement{name: "Norway"; cc:"47"; mcc:"242"}
         ListElement{name: "Oman"; cc:"968"; mcc:"422"}
@@ -356,7 +356,7 @@ PageStackWindow {
         ListElement{name: "Vietnam"; cc:"84"; mcc:"452"}
         ListElement{name: "U.S. Virgin Islands"; cc:"1"; mcc:"332"}
         ListElement{name: "Wallis and Futuna"; cc:"681"; mcc:"543"}
-        ListElement{name: "West Bank"; cc:"970"; mcc:"0"} // FIXME no info avialable
+        ListElement{name: "West Bank"; cc:"970"; mcc:"425"}
         ListElement{name: "Yemen"; cc:"967"; mcc:"421"}
         ListElement{name: "Zambia"; cc:"260"; mcc:"645"}
         ListElement{name: "Zimbabwe"; cc:"263"; mcc:"648"}
